@@ -29,7 +29,7 @@ Age -> Age in years
 
 Outcome -> Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
 
-<h4 align="left">Data Analysis using Python</h4>
+<h3 align="left">Data Analysis using Python</h3>
 
 1. Descriptive analysis of the variables and their corresponding values. On the columns below, a value of zero does not make sense and thus indicates missing value:
 
@@ -53,7 +53,7 @@ Outcome -> Class variable (either 0 or 1). 268 of 768 values are 1, and the othe
 
 6. Correlation analysis using a heat map.
 
-<h5 align="left">Data Analysis Using Tableau</h5>
+<h3 align="left">Data Analysis Using Tableau</h3>
 
 a. Pie chart to describe the diabetic or non-diabetic population
 
