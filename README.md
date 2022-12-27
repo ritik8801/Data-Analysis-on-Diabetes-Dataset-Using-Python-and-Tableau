@@ -63,5 +63,5 @@ c. Created bins of these age values: 20-25, 25-30, 30-35, etc to analyze differe
 
 d. Heatmap of correlation analysis among the relevant variables
 
-<h6 align="left">Tableau Dashboard Link:h6>
+<h3 align="left">Tableau Dashboard Link:</h3>
 https://public.tableau.com/views/DiabetesDataAnalysis_16721389003210/DiabetesDataAnalysis?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
