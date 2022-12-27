@@ -33,15 +33,15 @@ Outcome -> Class variable (either 0 or 1). 268 of 768 values are 1, and the othe
 
 1. Descriptive analysis of the variables and their corresponding values. On the columns below, a value of zero does not make sense and thus indicates missing value:
 
-• Glucose
+  • Glucose
 
-• BloodPressure
+  • BloodPressure
 
-• SkinThickness
+  • SkinThickness
 
-• Insulin
+  • Insulin
 
-• BMI
+  • BMI
 
 2. A count (frequency) plot describing the data types and the count of variables. 
 
